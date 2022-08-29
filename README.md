@@ -1,12 +1,11 @@
 Cupcake app
 
 
-This app contains an order flow for cupcakes with options for quantity, flavor, and pickup date.
-The order details get displayed on an order summary screen and can be shared to another app to
-send the order.
-
-This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,
-data binding, LiveData, and the Jetpack Navigation component.
+A Cupcake app that displays an order flow for cupcakes, allowing the user to choose the cupcake flavor, quantity, and pickup date.
+The cupcake app demonstrates how to design and implement an online ordering app.
+The user can choose the quantity, flavor, and other options for the cupcake order.
+This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,data binding,
+LiveData, and the Jetpack Navigation component.
 
 
 
